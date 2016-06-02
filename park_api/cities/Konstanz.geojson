@@ -10,17 +10,17 @@
           ]
       },
       "properties": {
-          "name": "Konstanz",
+          "Name": "Konstanz",
           "type": "city",
           "url": "http://www.konstanz.de/tourismus/01759/01765/",
           "source": "http://www.konstanz.de/tourismus/01759/01765/",
-	  "active_support": false
+	  "active_support": true
       }
   }, {
       "type": "Feature",
       "properties": {
         "name": "Marktstätte",
-        "total": 268
+        "Gesammtanzahl": 268
       },
       "geometry": {
         "type": "Point",
@@ -32,8 +32,8 @@
     },{
       "type": "Feature",
       "properties": {
-        "name": "Altstadt",
-        "total": 359
+        "name": "Altstadt Parkhaus",
+        "Gesamtanzahl": 359
       },
       "geometry": {
         "type": "Point",
@@ -46,8 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lago",
-        "total": 930
+        "Name": "Lago SHopping Center",
+        "Gesamtanzahl": 930
       },
       "geometry": {
         "type": "Point",
@@ -60,8 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Augustiner / Karstadt",
-        "total": 284
+        "Name": "Augustiner / Karstadt",
+        "Gesamntanzahl": 284
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fischmarkt",
+        "Name": "Fischmarkt Parkhaus",
         "total": 158
       },
       "geometry": {
@@ -88,8 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Döbele",
-        "total": 335
+        "Name": "Döbele Parkplatz",
+        "Gesamntanzahl": 335
       },
       "geometry": {
         "type": "Point",
@@ -102,8 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Am Seerhein",
-        "total": 500
+        "Name": "P&R am Seerhein",
+        "Gesamntanzahl": 500
       },
       "geometry": {
         "type": "Point",
@@ -116,8 +116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Byk Gulden Str.",
-        "total": 100
+        "Name": "P&R Byk Gulden",
+        "Gesammntanzahl": 100
       },
       "geometry": {
         "type": "Point",
@@ -130,8 +130,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Benediktiner",
-        "total": 118
+        "Name": "Benediktiner Parkaus",
+        "Gesamtanzahl": 118
       },
       "geometry": {
         "type": "Point",
@@ -144,8 +144,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Seerheincenter",
-        "total": 280
+        "Name": "Seerheincenter",
+        "Gesamntanzahl": 280
       },
       "geometry": {
         "type": "Point",
